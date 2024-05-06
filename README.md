@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahmed_bdiwy_" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed_bdiwy_?logo=twitter&style=for-the-badge" alt="ahmed_bdiwy_" /></a> </p>
 
-- 🔭 I’m currently working on **opensource projects**
+- 🔭 I’m currently working on **opensource projects** && **EgenSolve co**
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **laravel** and working with it . 
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
