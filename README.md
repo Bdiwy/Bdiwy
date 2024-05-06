@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Bdiwy</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-<p align="left"> <a href="https://twitter.com/ahmed_bdiwy_" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed_bdiwy_?logo=twitter&style=for-the-badge" alt="ahmed_bdiwy_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bdiwy_" target="blank"><img src="https://img.shields.io/twitter/follow/bdiwy_?logo=twitter&style=for-the-badge" alt="bdiwy_" /></a> </p>
 
 - 🔭 I’m currently working on **opensource projects** && **EgenSolve co**
 
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmed_bdiwy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_bdiwy_" height="30" width="40" /></a>
+<a href="https://twitter.com/bdiwy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bdiwy_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-bdiwy-a904231bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-bdiwy-a904231bb" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ahmed-bdiwy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed-bdiwy" height="30" width="40" /></a>
-<a href="https://instagram.com/_ahmed_bdiwy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ahmed_bdiwy_" height="30" width="40" /></a>
+<a href="https://instagram.com/bdiwy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdiwy_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bdiwy6187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bdiwy6187" height="30" width="40" /></a>
 </p>
 
