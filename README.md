@@ -4,9 +4,7 @@
 <p align="left"> <a href="https://twitter.com/bdiwy_" target="blank"><img src="https://img.shields.io/twitter/follow/bdiwy_?logo=twitter&style=for-the-badge" alt="bdiwy_" /></a> </p>
 
 - 🔭 I’m currently working on **opensource projects** && **Wasta-agancy**
-- 
 - 👯 I’m looking to collaborate on **opensource projects**
-
 - 📫 How to reach me **ahmedbedawi22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
