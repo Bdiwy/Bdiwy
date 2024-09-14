@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Bdiwy</h1>
+<h1 align="center">Hi 👋 , I'm Ahmed Bdiwy</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/bdiwy_" target="blank"><img src="https://img.shields.io/twitter/follow/bdiwy_?logo=twitter&style=for-the-badge" alt="bdiwy_" /></a> </p>
